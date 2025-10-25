@@ -72,7 +72,7 @@ docker stack deploy -c docker/docker-compose.yml myapp
 
 - **Django Admin**: Username: admin, Password: admin
 - **PostgreSQL**: Username: postgres, Password: postgres_password
-- **Test User**: Username: ITA771, Password: 2022PE0000
+- **Test User**: Username: ITA745, Password: 2022PE0366
 
 ### Infrastructure
 
