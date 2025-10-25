@@ -83,8 +83,8 @@ docker stack deploy -c docker/docker-compose.yml myapp
 
 ### Access
 
-- Django App: http://MANAGER_IP:8000
-- Admin Panel: http://MANAGER_IP:8000/admin
+- Django App: http://MANAGER_IP:8080
+- Admin Panel: http://MANAGER_IP:8080/admin
 
 ### Testing
 ```bash
