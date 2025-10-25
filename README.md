@@ -1,3 +1,8 @@
+Register Page
+<img width="1470" height="920" alt="Screenshot 2025-10-25 at 9 45 08 PM" src="https://github.com/user-attachments/assets/6c5332b0-c83e-41ed-91f2-e5726a3ec40a" />
+Login Page
+<img width="1470" height="920" alt="Screenshot 2025-10-25 at 9 45 22 PM" src="https://github.com/user-attachments/assets/c082c065-82d2-47d4-b1e9-3d3824840629" />
+<img width="1444" height="827" alt="Screenshot 2025-10-25 at 9 45 29 PM" src="https://github.com/user-attachments/assets/74f6c890-944b-4bc6-99c9-df457d891162" />
 
 DevOps_Assignment/
 ├── terraform/           # Infrastructure as Code
